@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  height:100vh;
+  background: grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  
+}
+
+.container a{
+  text-decoration: none;
+  background: red;
+  color:white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 20px;
+  
+}
